@@ -213,6 +213,7 @@ margin: 20px;
     background-color: #fff;
     border: 1px solid black;
     min-height: 14em;
+    max-height: fit-content;
     width: 23em;
     overflow: hidden;
     border-radius: 10px;
